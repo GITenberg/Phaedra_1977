@@ -1,0 +1,38 @@
+_repo: Phaedra_1977
+_version: 0.0.1
+alternative_title: Phèdre. English
+contributor:
+  translator:
+    agent_name: Boswell, Robert Bruce
+    alias: Boswell, R. Bruce (Robert Bruce)
+    gutenberg_agent_id: '768'
+    url: http://www.gutenberg.org/2009/agents/768
+creator:
+  author:
+    agent_name: Racine, Jean
+    alias: Racine, Jean Baptiste
+    birthdate: 1639
+    deathdate: 1699
+    gutenberg_agent_id: '767'
+    url: http://www.gutenberg.org/2009/agents/767
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Racine
+description: Recreating the spirit of classical antiquity, Racine draws upon Euripides's
+  tragedy of Hippolytus. Phaedra falls in love with her stepson, Hippolytus, with
+  tragic consequences. In Racine's version, after being accused of rape and rejected
+  by his father, Hippolytus is killed by a sea-monster. Phaedra then commits suicide.
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '1999-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1977'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Phaedra (Greek mythology) -- Drama'
+- !lcc 'PQ'
+- !lcsh 'Tragedies'
+- GITenberg
+title: Phaedra
+url: http://www.gutenberg.org/ebooks/1977
